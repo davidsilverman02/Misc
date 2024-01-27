@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+x64\Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\david.silverman\source\repos\AssembledOne\x64\Debug\AssembledOne.exe : fatal error LNK1120: 1 unresolved externals
